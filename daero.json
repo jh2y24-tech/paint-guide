@@ -15,7 +15,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/medic.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -40,7 +42,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 메딕, MADIC, 무기질방수, 시멘트방수, 탄성방수, 비노출방수, 욕실방수, 타일밑방수, MADIC",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/medic.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/medic.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/medic.jpg"
+   ]
   },
   {
    "name": "에코코트",
@@ -55,7 +66,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/ecocoat.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -80,7 +93,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 에코코트, ECOCOAT, 무기질방수, 물탱크방수, 지하방수, 수영장방수, 정수장, ECO-COAT",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/ecocoat.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/ecocoat.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/ecocoat.jpg"
+   ]
   },
   {
    "name": "폴리머 파워 플러스",
@@ -95,7 +117,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/powerplus.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -120,7 +144,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 폴리머파워플러스, POWERPLUS, 파워플러스, 몰탈방수, 견출, 방통, 옥상물매, POWER PLUS",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/powerplus.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/powerplus.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/powerplus.jpg"
+   ]
   },
   {
    "name": "그린코트",
@@ -135,7 +168,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/greencoat.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -160,7 +195,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 그린코트, GREENCOAT, 수용성방수, 옥상방수페인트, 베란다방수, 아크릴고무, GREEN-COAT",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/greencoat.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/greencoat.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/greencoat.jpg"
+   ]
   },
   {
    "name": "넬-코트",
@@ -175,7 +219,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/nelcoat.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -200,7 +246,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 넬코트, 넬-코트, NELCOAT, 판넬방수, 징크, 철판지붕, 차열, 단열, 컨테이너, NEL-COAT",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/nelcoat.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/nelcoat.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/nelcoat.jpg"
+   ]
   },
   {
    "name": "루프코트",
@@ -215,7 +270,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/roofcoat.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -240,7 +297,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 루프코트, ROOFCOAT, 슁글, 슬레이트, 기와방수, 적벽돌방수페인트, 지붕방수, ROOF-COAT",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/roofcoat.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/roofcoat.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/roofcoat.jpg"
+   ]
   },
   {
    "name": "곰팡이 결로방지 단열 도료 (수용성 결로단열)",
@@ -255,7 +321,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/condensation.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -280,7 +348,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 결로방지, 곰팡이방지, 단열도료, 세라믹단열, 수용성결로단열, 지하실곰팡이, V3 CONDENSATION & INSULATION",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/condensation.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/condensation.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/condensation.jpg"
+   ]
   },
   {
    "name": "투게더",
@@ -295,7 +372,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/together.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -320,7 +399,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 투게더, 침투방수, 욕실침투방수, 타일메지방수, 철거없는방수, TOGETHER",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/together.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/together.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/together.jpg"
+   ]
   },
   {
    "name": "고침투 방수재",
@@ -335,7 +423,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/penehard.jpg"
+   ],
    "stats": [
     {
      "k": "포장",
@@ -360,7 +450,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 고침투방수재, 침투방수, 미세균열, 콘크리트강화, PENETRATION HARDENER",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/penehard.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/penehard.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/penehard.jpg"
+   ]
   },
   {
    "name": "웰스코트",
@@ -375,7 +474,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/wallscoat.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -400,7 +501,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 웰스코트, 발수제, 외벽발수, 적벽돌발수, 목조주택발수, 투명발수, WALLS-COAT",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/wallscoat.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/wallscoat.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/wallscoat.jpg"
+   ]
   },
   {
    "name": "비트코트",
@@ -415,7 +525,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/bitcoat.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -440,7 +552,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 비트코트, 방수코팅제, 적벽돌방수, 드라이비트방수, 투명코팅, 수성혼합, VIT-COAT",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/bitcoat.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/bitcoat.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/bitcoat.jpg"
+   ]
   },
   {
    "name": "엑티원",
@@ -455,7 +576,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/actione.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -480,7 +603,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 엑티원, 하드너, 액상하드너, 방진, 바닥강화, 주차장바닥, 공장바닥, ACTI-ONE",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/actione.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/actione.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/actione.jpg"
+   ]
   },
   {
    "name": "V-100 바탕강화제",
@@ -495,7 +627,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/v100.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -520,7 +654,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, V-100, V100, 바탕강화제, 프라이머, 방수프라이머, 하도, V-100 GROUND REINFORCING AGENT",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/v100.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/v100.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/v100.jpg"
+   ]
   },
   {
    "name": "구체방수재",
@@ -535,7 +678,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/concretewp.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -560,7 +705,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 구체방수재, 레미콘혼입, 구체방수, 지하옹벽, 수밀, MORTAR & CONCRETE",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/concretewp.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/concretewp.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/concretewp.jpg"
+   ]
   },
   {
    "name": "몰드-인",
@@ -575,7 +729,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/moldin.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -600,7 +756,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 몰드인, 몰드-인, 신구접착, 접착증강, 프라이머접착, 몰탈접착, MOLD-IN",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/moldin.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/moldin.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/moldin.jpg"
+   ]
   },
   {
    "name": "퍼터-씰",
@@ -615,7 +780,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/putterseal.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -640,7 +807,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, 퍼터씰, 퍼터-씰, 실링제, 크림퍼티, 크랙충진, 메지보수, PUTTER-SEAL",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/putterseal.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/putterseal.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/putterseal.jpg"
+   ]
   },
   {
    "name": "R-750",
@@ -655,7 +831,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/r750.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -676,7 +854,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, R-750, R750, 인젝션, 지수제, 폴리우레탄발포, 누수주입, 팩커, POLYURETHANE CONCRETE REPAIR",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/r750.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/r750.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/r750.jpg"
+   ]
   },
   {
    "name": "R-505",
@@ -691,7 +878,9 @@
    "cautions": [],
    "image": "",
    "catalog": "",
-   "detailImages": [],
+   "detailImages": [
+    "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/r505.jpg"
+   ],
    "stats": [
     {
      "k": "용량/포장",
@@ -712,7 +901,16 @@
    ],
    "keywords": "대로방수, 대로방수화학, R-505, R505, 에폭시주입, 그라우팅, 주사기주입, 균열보수, EPOXY PUTTY",
    "methods": [],
-   "brand": "대로방수화학"
+   "brand": "대로방수화학",
+   "catalogImage": {
+    "url": "https://jh2y24-tech.github.io/V3-guide/img/r505.jpg",
+    "fallback": "https://raw.githubusercontent.com/jh2y24-tech/V3-guide/main/img/r505.jpg",
+    "label": "카탈로그 원문"
+   },
+   "imagesTitle": "카탈로그 원문 (대로방수화학 V3 공식 카탈로그)",
+   "detailImagesAlt": [
+    "https://jh2y24-tech.github.io/V3-guide/img/r505.jpg"
+   ]
   }
  ]
 }
